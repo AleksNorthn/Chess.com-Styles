@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="23.41387mm"
-   height="23.223001mm"
-   viewBox="0 0 23.41387 23.223001"
+   width="23.413879mm"
+   height="23.223019mm"
+   viewBox="0 0 23.413879 23.223019"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,16 +12,14 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(151.28022,-152.3659)"><g
-       id="g30"><rect
+     transform="translate(91.709396,-153.45957)"><g
+       id="g28"><rect
          style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect8-1-0-9-2-7-4"
+         id="rect8-1-0-21"
          width="23.413881"
          height="23.223007"
-         x="-151.28024"
-         y="152.36591" /><circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.197223;stroke-linecap:round;paint-order:fill markers stroke"
-         id="path2-2-321-9"
-         cx="-139.48601"
-         cy="163.9953"
-         r="7.9856253" /></g></g></svg>
+         x="-91.709396"
+         y="153.45956" /><path
+         id="rect5-6-9-6"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.136659;stroke-linecap:round;paint-order:fill markers stroke"
+         d="m -79.500586,172.72247 -9.42179,-14.95515 h 17.859867 z" /></g></g></svg>
