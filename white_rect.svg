@@ -12,9 +12,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(-44.823704,-63.638939)"><g
-       id="g21"><rect
-         style="fill:#8b8b8b;fill-opacity:0;stroke-width:0.383051;stroke-linecap:round;stroke-linejoin:bevel;-inkscape-stroke:none;paint-order:fill markers stroke"
+     transform="translate(-44.955998,-63.771229)"><g
+       id="g21"
+       style="stroke-width:0.6;stroke-dasharray:none"
+       transform="translate(0.13229167,0.13229167)"><rect
+         style="fill:#8b8b8b;fill-opacity:0;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:fill markers stroke"
          id="rect1-0"
          width="15.719893"
          height="15.719893"
@@ -22,7 +24,7 @@
          y="63.638935"
          rx="0"
          ry="0" /><rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.705;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect2-4"
          width="10.465209"
          height="10.465209"
